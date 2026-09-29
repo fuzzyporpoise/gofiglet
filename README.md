@@ -28,7 +28,7 @@ filesystem setup
 ## Installation
 
 ```bash
-go get github.com/polymorcodeus/gofiglet
+go get go.fuzzyporpoise.dev/gofiglet
 ```
 
 ## Quick Start
@@ -43,7 +43,7 @@ package main
 import (
   "fmt"
 
-  "github.com/polymorcodeus/gofiglet"
+  "go.fuzzyporpoise.dev/gofiglet"
 )
 
 func main() {
@@ -110,7 +110,7 @@ fmt.Println(out)
 ```go
 package main
 
-import "github.com/polymorcodeus/gofiglet"
+import "go.fuzzyporpoise.dev/gofiglet"
 
 func main() {
   b, err := gofiglet.NewCmdBanner(
