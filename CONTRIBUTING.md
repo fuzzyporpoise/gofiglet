@@ -123,7 +123,7 @@ This project uses [GoReleaser](https://goreleaser.com/) and conventional commit 
 
 ## Questions?
 
-Open a [Discussion](https://github.com/polymorcodeus/gofiglet/discussions) or issue. For bug reports, include:
+Open a [Discussion](https://github.com/fuzzyporpoise/gofiglet/discussions) or issue. For bug reports, include:
 
 - Go version (`go version`)
 - Input that triggers the issue

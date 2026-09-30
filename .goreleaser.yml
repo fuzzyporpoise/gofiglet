@@ -35,7 +35,7 @@ changelog:
 
 release:
   github:
-    owner: polymorcodeus
+    owner: fuzzyporpoise
     name: gofiglet
   draft: false
   prerelease: auto
@@ -43,4 +43,4 @@ release:
 
   footer: |
     ---
-    **Full Changelog**: https://github.com/polymorcodeus/gofiglet/compare/{{.PreviousTag}}...{{.Tag}}
+    **Full Changelog**: https://github.com/fuzzyporpoise/gofiglet/compare/{{.PreviousTag}}...{{.Tag}}
