@@ -6,7 +6,7 @@
 
 # gofiglet
 
-[![Go Version](https://img.shields.io/github/go-mod/go-version/polymorcodeus/gofiglet)](https://go.dev/) [![License](https://img.shields.io/github/license/polymorcodeus/gofiglet)](./LICENSE) [![Build Status](https://img.shields.io/github/actions/workflow/status/polymorcodeus/gofiglet/ci.yml?branch=main)](https://github.com/polymorcodeus/gofiglet/actions)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/fuzzyporpoise/gofiglet)](https://go.dev/) [![License](https://img.shields.io/github/license/fuzzyporpoise/gofiglet)](./LICENSE) [![Build Status](https://img.shields.io/github/actions/workflow/status/fuzzyporpoise/gofiglet/ci.yml?branch=main)](https://github.com/fuzzyporpoise/gofiglet/actions)
 
 `gofiglet` is a pure Go library for rendering ASCII art fonts (`.flf`) from [figlet](http://www.figlet.org/). It
 supports ANSI colors, 24-bit true color, and per-character coloring, with a set of fonts bundled and embedded directly
